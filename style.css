@@ -1,0 +1,46 @@
+    body {
+        font-family: 'Bentham', serif;
+        font-size: large;
+        font-weight: normal;
+        margin: 0 20% 0;
+        margin-bottom: 2%;
+        background-color: #fffcf4;
+    }
+
+    h1 {
+        color: #4a4a4a;
+        margin-top: 5%;
+        font-size: 2em;
+        text-align: center;
+    }
+        
+    pre {
+        font-family: 'Bentham', serif;
+        font-size: large;
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    footer {
+        text-align-last: center;
+    }
+
+    div {
+        margin: 0 35% 0;
+    }
+
+    img {
+        border: 5px double #4a4a4a;
+        width: 480;
+      }
+
+    .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+    }
+
+    cite {
+        font-size: small;
+        font-style: italic;
+    }
